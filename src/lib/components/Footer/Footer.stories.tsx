@@ -45,7 +45,7 @@ WithLogoFooter.args = {
         </Footer.LinkGroup>
       </div>
       <Footer.Divider />
-      <Footer.Copyright href="#" by="Flowbite™" year={2022} />
+      <Footer.Copyright href="https://github.com" target="_blank" by="Flowbite™" year={2022} />
     </div>
   ),
 };
